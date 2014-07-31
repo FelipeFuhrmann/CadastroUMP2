@@ -1,4 +1,4 @@
 CadastroUMP2
 ============
 
-Sistema de Membros da Igreja Presbiteriana
+Sistema de Membros da Igreja Presbiteriana (UMP)
